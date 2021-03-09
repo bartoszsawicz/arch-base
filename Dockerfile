@@ -1,5 +1,5 @@
-FROM scratch
-MAINTAINER binhex
+FROM forumi0721/arch-armhf-base:latest
+MAINTAINER tfikki
 
 # additional files
 ##################
